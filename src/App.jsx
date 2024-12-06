@@ -1,9 +1,11 @@
-import Home from "./components/Home";
+import Auth from "./components/Auth";
+import Test from "./components/Test";
 
 function App() {
   return (
     <>
-      <Home />
+      <Test />
+      <Auth />
     </>
   );
 }
